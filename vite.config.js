@@ -5,7 +5,7 @@ export default defineConfig({
     base:'/list-sp/',
     plugins: [preact()],
     build: {
-        outDir: 'public',
+        outDir: 'dist',
         emptyOutDir: true,
     },
 });
