@@ -1,0 +1,21 @@
+{
+  "name": "listia",
+  "short_name": "listia",
+  "start_url": "/list-sp/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "description": "listas everywhere",
+  "icons": [
+    {
+      "src": "icons/icon-min.png",
+      "sizes": "455x455",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-big-min.png",
+      "sizes": "650x650",
+      "type": "image/png"
+    }
+  ]
+}
